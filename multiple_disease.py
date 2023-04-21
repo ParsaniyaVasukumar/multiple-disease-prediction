@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov  3 11:44:15 2022
-
-@author: Sobhan
-"""
+#Vasu Parsaniya
 
 import pickle
 import streamlit as st
